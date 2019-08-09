@@ -53,6 +53,8 @@ This implementation has 9 files:
 * Configuration.py
 - Finally, this file is the file that sets the hyperparameters to be used in our network (tau, Learning rate, Neural network size, discount factor, etc.)
 
+The final two files correspond to the saved weights for the actor and the critic.
+
 We want to thank the github community, since if we're honest we didn't have a lot of time for this one, and we had NO idea how to set the Multiagent configuration (hence why that file is special to us).
 
 ## Instructions
