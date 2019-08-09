@@ -22,7 +22,7 @@ It is important to note that the agent doesn't act directly with the environment
 
 c. Solved 
 
-The task is episodic (it is not eternal, it ends after a while), and the environment is considered solved when the agents achieve an average score of +0.5 over a window of 100 consecutive episodes (after taking te maximum score of each agent for each episode). 
+The task is episodic (it is not eternal, it ends after a while), and the environment is considered solved when the agents achieve an average score of +0.5 over a window of 100 consecutive episodes (after taking the maximum score of each agent for each episode). 
 
 
 ## Getting started
